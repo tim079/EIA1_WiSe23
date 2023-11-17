@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(248, 203, 173);
+}
+
+
+   
+    
+p {
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+   
+    
+}
