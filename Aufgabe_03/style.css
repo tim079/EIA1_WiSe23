@@ -2,15 +2,94 @@ html {
     background-color: rgb(248, 203, 173);
 }
 
-
-   
-    
 p {
+    position: absolute;
+    top: 50px;
+    left: 23pc;
     font-size: 200px;
     
         display: flex;
         justify-content: center;
         align-items: center;
-   
+}
+
+#middle1 {
+    position: absolute;
+    top: 50px;
+    left: 26pc;
+    font-size: 200px;
     
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+}
+
+#middle2 {
+    position: absolute;
+    top: 30px;
+    left: 28pc;
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#middle3 {
+    position: absolute;
+    top: 62px;
+    left: 29pc;
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#outro1 {
+
+    position: absolute;
+    top: 130px;
+    left: 25pc;
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+#outro2 {
+
+    position: absolute;
+    top: 130px;
+    left: 25pc;
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#outro3 {
+
+    position: absolute;
+    top: 130px;
+    left: 25pc;
+    font-size: 200px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+}
+
+#outro1 audio {
+    display: none;
+}
+
+#outro2 audio {
+    display: none;
+}
+
+#outro3 audio {
+    display: none;
 }
