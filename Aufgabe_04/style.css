@@ -79,7 +79,7 @@ body {
   }
 
  
-  @media (max-width: 480px) {
+  @media (max-width:430px) {
     .box-container {
       position: static;
       width: 100%;
@@ -90,6 +90,6 @@ body {
     .box {
       position: static;
       width: 100%;
-      height: 10%
+      height: 15%
     }
   }
